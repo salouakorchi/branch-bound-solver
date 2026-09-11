@@ -65,4 +65,4 @@ http://localhost:8501
 
 ## 🎓 Contexte
 
-Projet universitaire réalisé à l’**Université Mouloud Mammeri de Tizi-Ouzou (UMMTO)** dans le cadre du module **Optimisation en Nombres Entiers**.
+Projet universitaire réalisé à l’**Université Mouloud Mammeri de Tizi-Ouzou (UMMTO)** .
